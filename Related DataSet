@@ -10,3 +10,4 @@ There are some related datdset resources without convert it to COCO-format.
                         Partial samples of each category are shown in the figure. The AID dataset has a total of 10,000 images in 30 categories.
         
         
+        2. https://github.com/AnupamaRajkumar/LandfillDetection_SemanticSegmentation
